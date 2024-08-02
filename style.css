@@ -1,0 +1,29 @@
+.body { 
+    display: flex;
+    flex-direction: column;
+}
+
+.title { 
+    
+
+}
+
+.score { 
+
+}
+
+.options { 
+    display: flex;
+}
+
+.ROCK { 
+
+}
+
+.SCISSORS { 
+
+}
+
+.PAPER { 
+
+}
